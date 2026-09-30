@@ -2,7 +2,6 @@
 # Characterization of a Plastid Genome
 
 ## Student Information
-
 **Name:** Hobe Palopalo
 
 **Course/Section:** Cell and Molecular Biology - A
@@ -25,25 +24,19 @@
 
 ---
 
-# Question 1
-
-## Give the full scientific name, family, NCBI accession/version, database source, and complete plastid-genome size of your selected organism.
+# Question 1:  Give the full scientific name, family, NCBI accession/version, database source, and complete plastid-genome size of your selected organism.
 
 The selected organism is *Coffea arabica* L., belonging to the family Rubiaceae. The chloroplast genome sequence was obtained from the NCBI GenBank database under accession number EF044213.1. The complete plastid genome has a total length of 155,189 base pairs and is reported as a complete chloroplast genome.
 
 ---
 
-# Question 2
-
-## What evidence shows that the sequence is a complete plastid/chloroplast genome rather than a barcode marker, fragment, or nuclear sequence?
+# Question 2: What evidence shows that the sequence is a complete plastid/chloroplast genome rather than a barcode marker, fragment, or nuclear sequence?
 
 The GenBank record specifically identifies the sequence as a complete chloroplast genome. The genome consists of 155,189 bp, which is much larger than common barcode markers such as rbcL and matK. The sequence also contains the complete set of chloroplast genes, including protein-coding genes, transfer RNAs, and ribosomal RNAs. In addition, the genome exhibits the typical quadripartite plastid structure consisting of LSC, SSC, and inverted repeat regions.
 
 ---
 
-# Question 3
-
-## Describe the overall organization of the plastid genome.
+# Question 3: Describe the overall organization of the plastid genome.
 
 The chloroplast genome of *Coffea arabica* contains the typical quadripartite organization present in most flowering plants.
 
@@ -58,9 +51,7 @@ The overall arrangement follows the standard LSC-IR-SSC-IR structure.
 
 ---
 
-# Question 4
-
-## Summarize the annotated gene content.
+# Question 4: Summarize the annotated gene content.
 
 The plastid genome contains 131 annotated genes.
 
@@ -75,9 +66,7 @@ Genes found inside the inverted repeat regions appear twice because the entire I
 
 ---
 
-# Question 5
-
-## Choose at least eight protein-coding plastid genes from different functional groups. List each gene and briefly explain its biological function.
+# Question 5: Choose at least eight protein-coding plastid genes from different functional groups. List each gene and briefly explain its biological function.
 
 | Gene | Functional Group | Function |
 |---------|-----------------|-----------|
@@ -94,9 +83,7 @@ These genes are involved in photosynthesis, transcription, translation, and carb
 
 ---
 
-# Question 6
-
-## Identify important RNA and RNA-processing features.
+# Question 6: Identify important RNA and RNA-processing features.
 
 ### rRNA Genes
 
@@ -123,17 +110,13 @@ Introns are non-coding regions removed from RNA transcripts during RNA processin
 
 ---
 
-# Question 7
-
-## Describe any pseudogenes, gene losses, duplications, rearrangements, or other unusual features reported for your plastid genome.
+# Question 7: Describe any pseudogenes, gene losses, duplications, rearrangements, or other unusual features reported for your plastid genome.
 
 No major genome rearrangements or gene losses have been reported in the chloroplast genome of *Coffea arabica*. Published studies indicate that coffee plastomes are highly conserved and display only minor nucleotide substitutions and insertions/deletions among cultivars. Gene duplications occur primarily within the inverted repeat regions where genes are naturally duplicated as part of the chloroplast genome structure.
 
 ---
 
-# Question 8
-
-## What is the GC content of your plastid genome? Based on your Galaxy results and annotation, describe two other notable sequence or structural observations.
+# Question 8: What is the GC content of your plastid genome? Based on your Galaxy results and annotation, describe two other notable sequence or structural observations.
 
 Galaxy FASTA Statistics analysis produced the following results:
 
@@ -148,9 +131,7 @@ Two notable observations are:
 
 ---
 
-# Question 9
-
-## Compare plastid and mitochondrial genomes. Give at least five similarities and five differences.
+# Question 9: Compare plastid and mitochondrial genomes. Give at least five similarities and five differences.
 
 ### Similarities
 
@@ -172,9 +153,7 @@ Two notable observations are:
 
 ---
 
-# Question 10
-
-## Explain the practical value of plastid genomes in research.
+# Question 10: Explain the practical value of plastid genomes in research.
 
 ### Advantages
 
